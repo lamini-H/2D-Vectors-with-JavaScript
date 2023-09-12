@@ -1,0 +1,2 @@
+In this project Dr. Radu guided us to visualized vectors in 2D and discussing the magnitude of vectors, direction, normalization scaling among others.  
+When the mouse is move on the plane you would visualized various shapes of vectors in 2D.
